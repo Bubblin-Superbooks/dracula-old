@@ -6,5 +6,5 @@
     "HEAD": "html"
   },
   "name": "dracula",
-  "type": "blank"
+  "type": "text"
 }

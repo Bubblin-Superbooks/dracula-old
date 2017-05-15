@@ -1,14 +1,14 @@
 {
   "name": "dracula",
   "version": "0.0.4",
-  "description": "Superbook dracula by marvin",
+  "description": "Superbook dracula by bramstoker",
   "keywords": [
     "superbook",
     "bookiza"
   ],
-  "author": "marvin <marvin@bubbl.in> (https://bubbl.in/marvin)",
+  "author": "bramstoker <marvindanig+guten+bram+stoker@gmail.com> (https://bubbl.in/bramstoker)",
   "license": "ISC",
-  "homepage": "https://bubbl.in/marvin",
+  "homepage": "https://bubbl.in/bramstoker",
   "repository": {
     "type": "git",
     "url": "git+https://github/project/url/here"
