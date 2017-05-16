@@ -5,6 +5,7 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "dracula",
-  "type": "text"
+  "name": "Dracula",
+  "type": "text",
+  "book_id": 416
 }
